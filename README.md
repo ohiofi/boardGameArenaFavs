@@ -1,8 +1,6 @@
 # boardGameArenaFavs
 Our fav Board Game Arena games
 
-Boardgamearena
-
 Simultaneous Action Selection or Co-op Games
 
 |Title|Weight|Players|
@@ -13,7 +11,7 @@ Simultaneous Action Selection or Co-op Games
 | Incan Gold | w1.11 | 3-8p |
 | Sushi Go | w1.16 | 2-5p |
 | Secret Moon | w1.18 | 5-8p |
-| 6 nimmt (aka Take 5) | w1.21 | 2-10p |
+| 6 Nimmt (aka Take 5) | w1.21 | 2-10p |
 | Draftosaurus | w1.23 | 2-5p |
 | Perudo (aka Liar's Dice) | w1.26 | 2-6p |
 | Guildes | w1.33 | 2-6p |
@@ -46,9 +44,9 @@ Not co-op or simultaneous---
 
 |Title|Weight|Players|
 |-----|-----|-----|
-Illustori | w1.00 | 3-6p |
-Martian Dice | w1.07 | 2-99p |
-Can't Stop | w1.16 | 2-4p |
+|Illustori | w1.00 | 3-6p |
+|Martian Dice | w1.07 | 2-99p |
+|Can't Stop | w1.16 | 2-4p |
 |For Sale | w1.26 | 3-6p |
 |Concept | w1.40 | 4-12p |
 |Letter Tycoon | w2.05 | 2-5p |
