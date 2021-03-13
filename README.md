@@ -5,6 +5,7 @@ Boardgamearena
 
 Simultaneous Action Selection or Co-op Games
 
+|Title|Weight|Players|
 |-----|-----|-----|
 | Haiclue | w1.00 | 2-12p |
 | Hoarders | w1.00 | 3-6p |
@@ -43,6 +44,7 @@ Simultaneous Action Selection or Co-op Games
 
 Not co-op or simultaneous---
 
+|Title|Weight|Players|
 |-----|-----|-----|
 Illustori | w1.00 | 3-6p |
 Martian Dice | w1.07 | 2-99p |
