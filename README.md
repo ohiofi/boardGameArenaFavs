@@ -46,6 +46,7 @@ Not co-op or simultaneous---
 |-----|-----|-----|
 |Illustori | w1.00 | 3-6p |
 |Martian Dice | w1.07 | 2-99p |
+|[No Thanks](https://boardgamearena.com/gamepanel?game=nothanks)|w1.14|3-7p|
 |Can't Stop | w1.16 | 2-4p |
 |For Sale | w1.26 | 3-6p |
 |Concept | w1.40 | 4-12p |
