@@ -5,13 +5,13 @@ Simultaneous Action Selection or Co-op Games
 
 |Title|Weight|Players|
 |-----|-----|-----|
-| Haiclue | w1.00 | 2-12p |
-| Hoarders | w1.00 | 3-6p |
+| [Haiclue](https://en.boardgamearena.com/gamepanel?game=haiclue) | w1.00 | 2-12p |
+| [Hoarders](https://boardgamearena.com/gamepanel?game=hoarders) | w1.00 | 3-6p |
 | Bandido | w1.10 | 1-4p |
-| Incan Gold | w1.11 | 3-8p |
-| Sushi Go | w1.16 | 2-5p |
+| [Incan Gold](https://boardgamearena.com/gamepanel?game=incangold) | w1.11 | 3-8p |
+| [Sushi Go](https://boardgamearena.com/gamepanel?game=sushigo) | w1.16 | 2-5p |
 | Secret Moon | w1.18 | 5-8p |
-| 6 Nimmt (aka Take 5) | w1.21 | 2-10p |
+| [6 Nimmt (aka Take 5)](https://boardgamearena.com/gamepanel?game=sechsnimmt) | w1.21 | 2-10p |
 | Draftosaurus | w1.23 | 2-5p |
 | Perudo (aka Liar's Dice) | w1.26 | 2-6p |
 | Guildes | w1.33 | 2-6p |
@@ -20,9 +20,9 @@ Simultaneous Action Selection or Co-op Games
 | Turn the Tide | w1.53 | 3-5p |
 | Yokai | w1.60 | 2-4p |
 | Hanabi | w1.70 | 2-5p |
-| Forbidden Island | w1.74 | 2-4p |
+| [Forbidden Island](https://boardgamearena.com/gamepanel?game=forbiddenisland) | w1.74 | 2-4p |
 | The Boss | w1.78 | 2-6p |
-| Welcome To | w1.82 | 1-100p |
+| [Welcome To](https://boardgamearena.com/gamepanel?game=welcometo) | w1.82 | 1-100p |
 | Colt Express | w1.82 | 2-6p |
 | Niagara | w1.83 | 3-5p |
 | Koryo | w1.86 | 2-4p |
