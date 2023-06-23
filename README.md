@@ -15,9 +15,9 @@ Simultaneous Action Selection or Co-op Games
 | ⭐ [Draftosaurus](https://boardgamearena.com/gamepanel?game=draftosaurus) | w1.23 | 2-5p |
 | Hanabi | w1.70 | 2-5p |
 | ⭐ [The Crew](https://boardgamearena.com/gamepanel?game=thecrew) (trick-taking)| w1.97 | 2-5p |
-| ⭐ Turn the Tide | w1.53 | 3-5p |
+| ⭐ [Turn the Tide](https://boardgamearena.com/gamepanel?game=turnthetide) | w1.53 | 3-5p |
 | Niagara | w1.83 | 3-5p |
-| Perudo (aka Liar's Dice) | w1.26 | 2-6p |
+| Perudo aka Liar's Dice | w1.26 | 2-6p |
 | Colt Express | w1.82 | 2-6p |
 | [Go Nuts for Donuts](https://boardgamearena.com/gamepanel?game=gonutsfordonuts) | w1.11 | 2-6p |
 | Guildes | w1.33 | 2-6p |
@@ -31,11 +31,12 @@ Simultaneous Action Selection or Co-op Games
 | ⭐ [Incan Gold](https://boardgamearena.com/gamepanel?game=incangold) (press yr luck) | w1.11 | 3-8p |
 | Secret Moon | w1.18 | 5-8p |
 | ⭐ [Can't Stop Express](https://boardgamearena.com/gamepanel?game=cantstopexpress) | w1.29 | 1-10p |
-| ⭐ [6 Nimmt (aka Take 5)](https://boardgamearena.com/gamepanel?game=sechsnimmt) | w1.21 | 2-10p |
+| ⭐ [6 Nimmt aka Take 5](https://boardgamearena.com/gamepanel?game=sechsnimmt) | w1.21 | 2-10p |
 | ⭐ [Welcome To](https://boardgamearena.com/gamepanel?game=welcometo) | w1.82 | 1-12p |
 | [Haiclue](https://en.boardgamearena.com/gamepanel?game=haiclue) | w1.00 | 2-12p |
 | [Saboteur](https://boardgamearena.com/gamepanel?game=saboteur) | w1.32 | 2-12p |
-| [Pingimus (aka Paper Telephone)](https://boardgamearena.com/gamepanel?game=pingimus) | w1.11 | 3-12p |
+| [61 Feuilles d'automne aka 61 Autumn Leaves](https://boardgamearena.com/gamepanel?game=sixtyone)|w2???|2-12p|
+| [Pingimus aka Paper Telephone](https://boardgamearena.com/gamepanel?game=pingimus) | w1.11 | 3-12p |
 | Room 25 | w1.92 |p|
 | Eruption | w2.04 |p|
 |Libertalia | w2.23 |p|
@@ -71,8 +72,10 @@ Not co-op or simultaneous---
 | [Mind Up](https://boardgamearena.com/gamepanel?game=mindup) |w1.00|3-6p|
 | ⭐ [Oh Hell](https://boardgamearena.com/gamepanel?game=ohhell) (trick-taking) |w1.72|3-7p|
 | ⭐ [No Thanks](https://boardgamearena.com/gamepanel?game=nothanks) (press yr luck) |w1.14|3-7p|
+| [Cucumber](https://boardgamearena.com/gamepanel?game=cucumber) (trick-taking)| w1.17 | 2-8p |
 | ⭐ [Rage](https://boardgamearena.com/gamepanel?game=rage) (trick-taking) | w1.46 | 3-8p |
 | [Papayoo](https://boardgamearena.com/gamepanel?game=papayoo) (trick-taking)| w1.07 | 3-8p |
+| [Oh-Seven aka Insidious Sevens](https://boardgamearena.com/gamepanel?game=ohseven) (trick-taking)| w1.78 | 2-9p |
 | [Solo](https://boardgamearena.com/gamepanel?game=solo) | w1.03 | 2-10p |
 | Martian Dice | w1.07 | 2-10p |
 | Concept | w1.40 | 4-12p |
@@ -90,8 +93,11 @@ Trick-taking
 | [French Tarot](https://boardgamearena.com/gamepanel?game=frenchtarot) (trick-taking) | w2.46 | 3-5p |
 | ⭐ [Wizard](https://boardgamearena.com/gamepanel?game=wizard) (trick-taking) | w1.72 | 3-6p |
 | ⭐ [Oh Hell](https://boardgamearena.com/gamepanel?game=ohhell) (trick-taking) |w1.72|3-7p|
+| [Cucumber](https://boardgamearena.com/gamepanel?game=cucumber) (trick-taking)| w1.17 | 2-8p |
 | ⭐ [Rage](https://boardgamearena.com/gamepanel?game=rage) (trick-taking) | w1.46 | 3-8p |
 | [Papayoo](https://boardgamearena.com/gamepanel?game=papayoo) (trick-taking)| w1.07 | 3-8p |
+| [Oh-Seven aka Insidious Sevens](https://boardgamearena.com/gamepanel?game=ohseven) (trick-taking)| w1.78 | 2-9p |
+
 -=-=-=-=-=-=-=-=-=-=-=-=-=-
 
 [Board Games Across Online Platforms](https://docs.google.com/spreadsheets/d/1ppQYqr9fX1YK8SmPbzmGttb6CCqeDEwPm6ImBRfVWd4/edit)
