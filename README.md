@@ -20,7 +20,6 @@ Simultaneous Action Selection or Co-op Games
 | ⭐ [Turn the Tide](https://boardgamearena.com/gamepanel?game=turnthetide) | w1.53 | 3-5p |
 | Niagara | w1.83 | 3-5p |
 |*|*|6p max|
-| Perudo aka Liar's Dice | w1.26 | 2-6p |
 | Colt Express | w1.82 | 2-6p |
 | [Go Nuts for Donuts](https://boardgamearena.com/gamepanel?game=gonutsfordonuts) | w1.11 | 2-6p |
 | Guildes | w1.33 | 2-6p |
@@ -71,8 +70,10 @@ Not co-op or simultaneous---
 | [Whist 22](https://boardgamearena.com/gamepanel?game=whisttwentytwo) (trick-taking) | w1.33 | 3-5p |
 | [French Tarot](https://boardgamearena.com/gamepanel?game=frenchtarot) (trick-taking) | w2.46 | 3-5p |
 |*|*|6p max|
+| [Perudo aka Liar's Dice](https://boardgamearena.com/gamepanel?game=dudo) (press yr luck)| w1.26 | 2-6p |
 | [LLAMA](https://boardgamearena.com/gamepanel?game=lama) (press yr luck) |w1.05|2-6p|
 | [Fluxx](https://boardgamearena.com/gamepanel?game=fluxx) | w1.39 | 2-6p |
+| [Schrödinger's Cats aka Knockout Liars Dice](https://boardgamearena.com/gamepanel?game=schroedingerscats) (press yr luck)|w1.26|2-6p|
 | ⭐ [Wizard](https://boardgamearena.com/gamepanel?game=wizard) (trick-taking) | w1.72 | 3-6p |
 | Illustori | w1.00 | 3-6p |
 | For Sale | w1.26 | 3-6p |
@@ -87,6 +88,7 @@ Not co-op or simultaneous---
 | [Oh-Seven aka Insidious Sevens](https://boardgamearena.com/gamepanel?game=ohseven) (trick-taking)| w1.78 | 2-9p |
 | [Solo](https://boardgamearena.com/gamepanel?game=solo) | w1.03 | 2-10p |
 | Martian Dice | w1.07 | 2-10p |
+| Farkle | w1.00 | 1-12p |
 | Concept | w1.40 | 4-12p |
 
 
