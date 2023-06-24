@@ -73,7 +73,7 @@ Not co-op or simultaneous---
 | [Perudo aka Liar's Dice](https://boardgamearena.com/gamepanel?game=dudo) (press yr luck)| w1.26 | 2-6p |
 | [LLAMA](https://boardgamearena.com/gamepanel?game=lama) (press yr luck) |w1.05|2-6p|
 | [Fluxx](https://boardgamearena.com/gamepanel?game=fluxx) | w1.39 | 2-6p |
-| [Schrödinger's Cats aka Knockout Liars Dice](https://boardgamearena.com/gamepanel?game=schroedingerscats) (press yr luck)|w1.26|2-6p|
+| ⭐ [Schrödinger's Cats aka Knockout Liars Dice](https://boardgamearena.com/gamepanel?game=schroedingerscats) (press yr luck)|w1.26|2-6p|
 | ⭐ [Wizard](https://boardgamearena.com/gamepanel?game=wizard) (trick-taking) | w1.72 | 3-6p |
 | Illustori | w1.00 | 3-6p |
 | For Sale | w1.26 | 3-6p |
