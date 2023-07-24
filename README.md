@@ -89,6 +89,7 @@ Not co-op or simultaneous---
 | [Papayoo](https://boardgamearena.com/gamepanel?game=papayoo) (trick-taking)| w1.07 | 3-8p |
 | [Decrypto](https://boardgamearena.com/gamepanel?game=decrypto)|w1.81|4-8p|
 | [Oh-Seven aka Insidious Sevens](https://boardgamearena.com/gamepanel?game=ohseven) (trick-taking)| w1.78 | 2-9p |
+| [Napoleon aka Nap](https://boardgamearena.com/gamepanel?game=nap)|w2.00|2-10p|
 | [Solo](https://boardgamearena.com/gamepanel?game=solo) | w1.03 | 2-10p |
 | Martian Dice | w1.07 | 2-10p |
 | Farkle | w1.00 | 1-12p |
@@ -117,6 +118,7 @@ Trick-taking
 | ⭐ [Rage](https://boardgamearena.com/gamepanel?game=rage) (trick-taking) | w1.46 | 3-8p |
 | [Papayoo](https://boardgamearena.com/gamepanel?game=papayoo) (trick-taking)| w1.07 | 3-8p |
 | [Oh-Seven aka Insidious Sevens](https://boardgamearena.com/gamepanel?game=ohseven) (trick-taking)| w1.78 | 2-9p |
+| [Napoleon aka Nap](https://boardgamearena.com/gamepanel?game=nap)|w2.00|2-10p|
 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-
 
