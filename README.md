@@ -24,6 +24,7 @@ Simultaneous Action Selection or Co-op Games
 | [Go Nuts for Donuts](https://boardgamearena.com/gamepanel?game=gonutsfordonuts) | w1.11 | 2-6p |
 | Guildes | w1.33 | 2-6p |
 | The Boss | w1.78 | 2-6p |
+|[Roll To The Top](https://boardgamearena.com/gamepanel?game=rolltothetopjourneys)|w1.00|2-6p|
 | [Hoarders](https://boardgamearena.com/gamepanel?game=hoarders) | w1.00 | 3-6p |
 | Remember When | w1.50 | 3-6p |
 |🧑‍🤝‍🧑🧑‍🤝‍🧑🧑‍🤝‍🧑🧑‍🤝‍🧑7p+ max|🧑‍🤝‍🧑🧑‍🤝‍🧑🧑‍🤝‍🧑🧑‍🤝‍🧑7p+ max|🧑‍🤝‍🧑🧑‍🤝‍🧑🧑‍🤝‍🧑🧑‍🤝‍🧑7p+ max|
