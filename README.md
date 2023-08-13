@@ -30,6 +30,7 @@ Simultaneous Action Selection or Co-op Games
 | Not Alone | w1.94 | 2-7p |
 | ⭐ [Just One](https://boardgamearena.com/gamepanel?game=justone) | w1.04 | 3-7p |
 | ⭐ 7 Wonders | w2.33 | 3-7p |
+| [On Tour](https://boardgamearena.com/gamepanel?game=ontour) | w1.45 | 1-8p |
 | [Similo](https://boardgamearena.com/gamepanel?game=similo) | w1.03 | 2-8p |
 | ⭐ [Incan Gold](https://boardgamearena.com/gamepanel?game=incangold) (press yr luck) | w1.11 | 3-8p |
 | Secret Moon | w1.18 | 5-8p |
@@ -57,6 +58,7 @@ Not co-op or simultaneous---
 |Title|Weight|Players|
 |-----|-----|-----|
 |🧑‍🤝‍🧑4p max|🧑‍🤝‍🧑4p max|🧑‍🤝‍🧑4p max|
+|[Euchre](https://boardgamearena.com/gamepanel?game=euchre)|w1.69|2-4p|
 | [Next Station Tokyo](https://boardgamearena.com/gamepanel?game=nextstationtokyo) | w1.83 | 1-4p |
 | ⭐ Can't Stop (press yr luck) | w1.16 | 2-4p |
 | [Break the Code](https://boardgamearena.com/gamepanel?game=breakthecode) | w1.69 | 2-4p |
@@ -103,6 +105,7 @@ Trick-taking
 |Title|Weight|Players|
 |-----|-----|-----|
 |🧑‍🤝‍🧑4p max|🧑‍🤝‍🧑4p max|🧑‍🤝‍🧑4p max|
+|[Euchre](https://boardgamearena.com/gamepanel?game=euchre)|w1.69|2-4p|
 |[Ninety-Nine](https://boardgamearena.com/gamepanel?game=ninetynine)|w2.12|3-4p|
 |🧑‍🤝‍🧑🧑‍🤝‍🧑5p max|🧑‍🤝‍🧑🧑‍🤝‍🧑5p max|🧑‍🤝‍🧑🧑‍🤝‍🧑5p max|
 | ⭐ [The Crew](https://boardgamearena.com/gamepanel?game=thecrew) (trick-taking)| w1.97 | 2-5p |
